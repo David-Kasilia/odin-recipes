@@ -13,9 +13,10 @@ i have used the following HTML elements to Develop this website:
 8. I have used lists both ordered and unordered lists to give Ingredients and Steps In the website.
 9. I created the HTML boilerplate. 
 
-I Have Added Some Additional Contents to The Website
-I have Accomplished This By Adding 2 recipes With the same Model.
-I have Changed The color of headings in all the pages
-I added additional information including images to the main page.
+## New Updates To The Project
+1. I Have Added Some Additional Contents to The Website.
+2. I have Accomplished This By Adding 2 recipes With the same Model.
+3. I have Changed The color of headings in all the pages.
+4. I added additional information including images to the main page.
 
 
